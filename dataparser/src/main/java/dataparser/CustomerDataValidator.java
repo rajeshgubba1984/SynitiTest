@@ -14,6 +14,17 @@ import org.json.JSONObject;
 
 public class CustomerDataValidator {
 	
+	/**
+	 * For given data.json file, 
+	 * program that will read in the data and mark any records:
+	 * That are a duplicate of another record.
+	 * name field is null, missing, or blank. 
+	 * address field is null, missing, or blank. 
+	 * zip is null, missing, or an invalid U.S. zipcode.
+	 * 
+	 * @param filePath location of the json path
+	 * @return list of invalid ids
+	 */
 	public static List<String> listInvalidateIds(String filePath){
 		List<String> result = new ArrayList<String>();
 		try {
@@ -63,6 +74,11 @@ public class CustomerDataValidator {
 		return result;
 	}
 	
+	/**
+	 * 
+	 * @param prop
+	 * @return
+	 */
 	public static boolean isValid(String prop) {
 		if(prop == null || prop.isEmpty()) {
 			return false;
@@ -71,6 +87,11 @@ public class CustomerDataValidator {
 		return true;
 	}
 	
+	/**
+	 * 
+	 * @param prop
+	 * @return
+	 */
 	public static boolean isValidZip(String prop) {
 		if(prop == null || prop.isBlank()) {
 			return false;
