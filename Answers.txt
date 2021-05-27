@@ -1,0 +1,20 @@
+1. What’s your proudest achievement? It can be a personal project or something you’ve worked on professionally. Just a short paragraph is fine, but I’d love to know why you’re proud of it.
+=================================================================
+My recent achievement was developing a personal project for my friend. Project  is to develop a mobile application in React which I never worked. I took that as challenge & opportunity to learn new technology. Then I started learning React and development of the application in parallel. Initially I was not confident in completing the project one handed, but after few weeks of learning/experiments, I could able to complete bunch of functionalities of the application. 
+
+
+2. What's a personal project you're currently working on? This could be a coding side project, hobby, or otherwise real world project you're working on.
+=================================================================
+As I said, I am working on a personal project developing a mobile application. This application is for employee union from a non IT sector. 
+
+
+3. Tell us about a technical book or article you read recently, why you liked it, and why we should read it.
+=================================================================
+There is Not one specific article, but I do follow continuously some technical blogs, sites, videos etc.. Few of them are like toptal, Quora and Youtube. I really like because the content is about the trending topics, technologies, industry standards etc. The blogs are designed by experts are simple, short and easy to understand quickly.
+
+
+4. Tell us about one of your favorite products (physical or software) and one specific aspect that makes it truly great.
+=================================================================
+There are many favorite products, one of them is slack collaboration tool. 
+Conversations and replies from number of people on different topics can be easily separated by threads feature in Slack.
+
